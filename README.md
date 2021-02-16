@@ -37,6 +37,12 @@ Via the command line:
 
 The following describes the usage of this extension that is automatically enabled each time you open up VS Code.
 
+
+## Verify install
+
+    git verify commit <commithash>
+
+
 ### Automation
 
 * If you have a `.envrc` file on the workspace root it will try to load it to the environment. If you haven't allowed it yet then it will prompt you to do so.
